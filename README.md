@@ -4,7 +4,7 @@ Do the following to Complete this assignment:
 
 1. Begin editing this file by clicking the 'pen' symbol above.
 
-2. Enter your First Name: Bryan
+2. Enter your First Name: Bryan Zhu
 
 3. Enter your favourite animal: Fox
 
@@ -15,3 +15,4 @@ Do the following to Complete this assignment:
 Add more changes
 
 Even more changes
+
